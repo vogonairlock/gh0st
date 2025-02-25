@@ -2,10 +2,9 @@
 
 ![gh0st's landing page](https://raw.githubusercontent.com/dipeshsingh253/saral/main/images/screenshot.png)
 
-
 ## Getting Started
 
-**Installation:**
+### **Installation:**
 
 Install the Hugo program:<br/>
 
@@ -25,13 +24,13 @@ Start Hugo’s development server to view the site.<br/>
 `hugo server`
 
 
-**Content:**
+### **Content:**
    - Start adding your content in the `content` directory.
 
-**Development:**
+### **Development:**
    - Run `hugo server -D` to preview your site locally.
 
 
-## Special Thanks 😊
+### Special Thanks 😊
   - [Saral](https://github.com/dipeshsingh253/saral): gh0st is based off of the Saral theme
 
