@@ -1,0 +1,46 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'site title'
+theme = 'gh0st' 
+# theme = 'gh0st'
+pygmentsCodefences = true
+pygmentsStyle = "gruvbox"
+
+[params]
+    logoText = "site title"
+    isBlogFocused = false
+    showHeroImage = true
+    showResumeButton = false
+    math = true
+    dateFormat = "02 Jan 2006"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['@@', '@@']]
+          inline = [['@', '@']]
+    
+[menu]
+  [[menu.main]]
+    name = "about"
+    pre = "about"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    name = "posts"
+    pre = "pen-tool"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    name = "projects"
+    pre = "projects"
+    url = "/projects/"
+    weight = 30
+  [[menu.main]]
+    name = "contact"
+    pre = "contact"
+    url = "/contact/"
+    weight = 40
