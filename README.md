@@ -1,6 +1,6 @@
 # gh0st Hugo Theme
 
-![gh0st's landing page]([https://raw.githubusercontent.com/dipeshsingh253/saral/main/images/screenshot.png](https://github.com/vogonairlock/gh0st/blob/ba7f8f79f5a51d607e6625c4414aa68bf87d5162/images/screenshot.png?raw=true))
+![gh0st's landing page](https://github.com/vogonairlock/gh0st/blob/ba7f8f79f5a51d607e6625c4414aa68bf87d5162/images/screenshot.png?raw=true)
 
 ## Getting Started
 
